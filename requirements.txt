@@ -1,6 +1,7 @@
 Flask==2.1.1
 pymongo==4.2.0
-streamlit==1.8.0
+streamlit==1.24.1
+click<9.0
 requests==2.27.1
 protobuf==3.20.3
 altair==4.2.2
